@@ -11,3 +11,6 @@ console.log("Hello git pull")
 
 console.log("git fetch")
 console.log("git update pull")
+
+
+console.log("git pull update")
