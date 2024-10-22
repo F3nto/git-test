@@ -10,3 +10,4 @@ console.log("hello apple")
 console.log("Hello git pull")
 
 console.log("git fetch")
+console.log("git update pull")
